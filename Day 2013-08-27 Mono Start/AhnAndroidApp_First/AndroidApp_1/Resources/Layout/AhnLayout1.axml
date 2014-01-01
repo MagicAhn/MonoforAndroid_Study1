@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  <Button
+    android:id="@+id/btnClick1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/Click1"/>
+  <Button
+    android:id="@+id/btnClick2"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/Click2"/>
+  <Button
+    android:id="@+id/btnClick3"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/Click3"/>
+  <Button
+    android:id="@+id/btnMultiSelect"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/Click4"/>
+  <Button
+  android:id="@+id/btnSingleSelect"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:text="@string/Click5"/>
+</LinearLayout>

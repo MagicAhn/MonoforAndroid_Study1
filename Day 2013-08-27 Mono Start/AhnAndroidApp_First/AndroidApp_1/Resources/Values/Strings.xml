@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello Android, Click Me!</string>
+  <string name="ApplicationName">AndroidApp_1</string>
+  <string name="ClickMe">Congratulate you to LoginIn</string>
+  <string name="Love">Ahn Love Feng</string>
+  <string name="LoveFeng">小安子爱凤宝宝</string>
+  <string name="Copy">复制</string>
+  <string name="Paste">粘贴</string>
+  <string name="Click1">点击</string>
+  <string name="Click2">选择</string>
+  <string name="Click3">点击登陆</string>
+  <string name="Click4">多选</string>
+  <string name="Click5">单选</string>
+  <string name="alertTitle">提示消息</string>
+  <string name="alertMessage">这里是提示消息的内容</string>
+  <string name="alertBtnYes">确定</string>
+  <string name="alertYes"> 删了！！！</string>
+  <string name="alertBtnNo">取消</string>
+  <string name="love1">Ahn Love Feng</string>
+  <string name="love2">安 Love 凤</string>
+  <string name="love3">小安子爱凤宝宝</string>
+  <string name="Username_Login">用户名</string>
+  <string name="Password_Login">密码</string>
+  <string name="btnLogin_Login">登陆</string>
+  <string name="btnCancel_Login">取消</string>
+  <string name="title_Login">Welcome</string>
+  <string name="msg1_Login">凤宝宝也爱小安子</string>
+  <string name="msg2_Login">凤宝宝是小安子的主人</string>
+  <string name="msg3_Login">凤宝宝说"小安子跪安吧"；小安子说"嗻，老佛爷"</string>
+  <string name="username">小安子爱凤宝宝</string>
+  <string name="password">AhnloveFeng</string>
+</resources>

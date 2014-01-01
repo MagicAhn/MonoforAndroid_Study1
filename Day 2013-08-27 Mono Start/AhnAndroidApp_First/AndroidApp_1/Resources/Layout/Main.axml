@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+  <Button
+      android:id="@+id/MyButton"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:text="@string/Hello"
+    />
+  <EditText
+      android:id="@+id/MyEditText1"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:hint="请输入文本"/>
+  <EditText
+      android:id="@+id/MyEditText2"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:hint="Hello Android"
+      android:inputType="textEmailAddress"/>
+  <TextView
+      android:id="@+id/textView1"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:text="Large.Text"/>
+  <RadioGroup
+      android:id="@+id/rg1"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content">
+    <RadioButton android:text="Male"/>
+    <RadioButton android:text="Femail"/>
+    <RadioButton android:text="I don't know"/>
+  </RadioGroup>
+  <TableLayout
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content">
+    <TableRow>
+      <EditText
+          android:id="@+id/EditText1"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:hint="Ahn Love Feng"/>
+      <Button
+          android:id="@+id/Button1"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/Love"/>
+    </TableRow>
+    <TableRow>
+      <EditText
+          android:id="@+id/EditText2"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:hint="小安子爱凤宝宝"/>
+      <Button
+          android:id="@+id/Button2"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/LoveFeng"/>
+    </TableRow>
+  </TableLayout>
+</LinearLayout>
